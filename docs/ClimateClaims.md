@@ -1,5 +1,5 @@
 ---
-title: <**Climate Claims: Cabbage's Relationship with CO2**>
+title: **Climate Claims: Cabbage's Relationship with CO2**
 layout: default
 nav_order: 1
 ---
