@@ -1,5 +1,6 @@
 
 # **Assisted Migration as a Response to Climate Change in The Boreal Forest**
+By: Shannon Buck, Hunter Clark, Khalil Husein, Anna Morley, Selvi Patel 
 
 ### The Boreal Forest and Climate Change
 
