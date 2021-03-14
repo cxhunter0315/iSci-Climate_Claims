@@ -18,8 +18,10 @@ Assisted migration (AM) is the human-administered movement of species to more cl
 AM has the capability to save individual threatened species from extinction (McLachlan, Hellman and Schwartz, 2007; Aubin et al., 2011; Williams and Dumroese, 2013; Ste-Marie et al., 2014). In addition, AM could maintain or increase the genetic diversity of tree species by expanding the range of different genetic populations (Ste-Marie et al., 2014). AM also has the potential to increase the resiliency of forest ecosystems if similar tree species were moved together (Aubin et al., 2011). Lastly, AM provides socioeconomic benefits through conserving market-based forestry goods, related jobs, and nature-based recreational activities (Ste-Marie et al., 2014).
 
 ### Negative Impacts of Assisted Migration  
-
+The main challenge of AM is the unpredictability of whether migrated species can survive in a new area. Additionally, AM may not be able to maintain biodiversity due to the threat of new predators (Johnstone and Chapin, 2003; Winder, Nelson and Beardmore, 2011) and migrated species may exert similar effects as invasive species on existing forest communities (Pedlar et al., 2012). Furthermore, AM may not be enough to mitigate the effects of climate change, as forest fires (Paul, Bergeron and Tremblay, 2014) and emissions from carbon sinks (Carlson, Wells and Roberts, 2009) pose a threat to the integrity and biodiversity of the boreal forest.  
 Implementing AM involves (Pedlar et al., 2011):
+
+### Feasibility and Applicability of Assisted Migration  
  1. Selecting the tree species to migrate 
  2. Establishing the appropriate seed migration distance 
  3. Procuring seed
