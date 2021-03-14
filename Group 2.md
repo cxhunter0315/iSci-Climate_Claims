@@ -42,7 +42,7 @@ Carlson, M., Wells, J. and Roberts, D., 2009. The Carbon the World Forgot: Conse
 
 Gauthier, S., Bernier, P., Kuuluvainen, T., Shvidenko, A.Z. and Schepaschenko, D.G., 2015. Boreal forest health and global change. Science, 349(6250), pp.819–822. 
 
-Government of Canada, 2013. Assisted Migration. [online] Government of Canada. Available at: <<span>https://www.nrcan.gc.ca/climate-change/impacts-adaptations/climate-change-impacts-forests/adaptation/assisted-migration/13121</span>> [Accessed 27 Feb. 2021]. 
+Government of Canada, 2013. Assisted Migration. [online] Government of Canada. Available at: <<span>https://www.nrcan.gc.ca/climate-change/impacts-adaptations/climate-change-impacts-forests/adaptation/assisted-migration/13121> [Accessed 27 Feb. 2021]. 
 
 Johnstone, J.F. and Chapin, F.S., 2003. Non-equilibrium succession dynamics indicate continued northern migration of lodgepole pine. Global Change Biology, 9(10), pp.1401–1409. 
 
