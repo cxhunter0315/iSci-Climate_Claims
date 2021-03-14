@@ -1,5 +1,5 @@
 
-# **Assisted Migration as a Response to Climate Change**
+# **Assisted Migration as a Response to Climate Change in The Boreal Forest**
 
 ### The Boreal Forest and Climate Change
 
@@ -33,7 +33,7 @@ Accurate climate predictions and knowledge of how different species grow are imp
 
 While there are examples of successful assisted migration in Canada, many uncertainties remain. For now, there is greater public support for using AM to increase diversity and forest resilience within a species’ existing range, rather than migrating large distances (Sáenz-Romero et al., 2021). However, AM on its own would likely not be enough. Forest management strategies, including potential AM initiatives, should be diversified to hedge against future uncertainties in the boreal forest. 
 
-## Refrences
+## References
 
 Aubin, I., Garbe, C.M., Colombo, S., Drever, C.R., McKenney, D.W., Messier, C., Pedlar, J., Saner, M.A., Venier, L., Wellstead, A.M., Winder, R., Witten, E. and Ste-Marie, C., 2011. Why we disagree about assisted migration: Ethical implications of a key debate regarding the future of Canada’s forests. The Forestry Chronicle, 87(6), pp.755–766. 
 
